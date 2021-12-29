@@ -1,4 +1,4 @@
-#sxul’s gardening 👋
+sxul’s gardening 👋
 
 - 🔭 I’m currently working on react
 - 🌱 I’m currently learning javascript
