@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I’m sxul 👋
 
 - 🔭 I’m currently working on react
 - 🌱 I’m currently learning javascript
